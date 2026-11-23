@@ -1,0 +1,32 @@
+{
+ "name": "Relevé chantier AQUAGED",
+ "short_name": "Relevé AQUAGED",
+ "description": "Relevé de chantier traitement d'eau — trame MMS260203, hors ligne.",
+ "start_url": "index.html",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#eef2f4",
+ "theme_color": "#006281",
+ "lang": "fr",
+ "icons": [
+  {
+   "src": "icone-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icone-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icone-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
