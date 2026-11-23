@@ -3,7 +3,7 @@
    l'application, ce qui suffit à faire prendre la mise à jour sur un téléphone déjà équipé.
    Les appels d'API ne sont JAMAIS mis en cache — un dépôt servi depuis le cache donnerait un
    faux succès, et le relevé serait cru transmis. */
-var CACHE='aqs-releve-1.1-fb4dfafe';
+var CACHE='aqs-releve-1.1-ffe36ebf';
 var COQUILLE=['index.html','manifest.webmanifest','icone-192.png','icone-512.png'];
 
 self.addEventListener('install',function(e){
